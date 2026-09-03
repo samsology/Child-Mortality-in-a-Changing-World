@@ -115,9 +115,8 @@ The initial dashboard explored:
 
 ### Initial Dashboard
 
-![Initial Dashboard](images/dashboard-v1.png)
+<img width="2075" height="1200" alt="Dashboard_01_page-0001" src="https://github.com/user-attachments/assets/5ddea7b8-5eeb-432f-b4cf-7404f6eedb07" />
 
-**Power BI File:** `[Insert Power BI file link]`
 
 ---
 
@@ -194,15 +193,15 @@ The project initially considered the following datasets:
 
 > **Note:** Exact source URLs should be added before publishing the repository.
 
-* Child mortality: `[INSERT SOURCE LINK]`
-* GDP per capita: `[INSERT SOURCE LINK]`
-* Health expenditure: `[INSERT SOURCE LINK]`
-* Population: `[INSERT SOURCE LINK]`
-* Water & sanitation: `[INSERT SOURCE LINK]`
-* Education: `[INSERT SOURCE LINK]`
-* Income group: `[INSERT SOURCE LINK]`
-* World Bank regions: `[INSERT SOURCE LINK]`
-* Country geolocation: `[INSERT SOURCE LINK]`
+* Child mortality: `https://data.unicef.org/topic/child-survival/under-five-mortality/`
+* GDP per capita: `https://data.worldbank.org/indicator/NY.GDP.MKTP.CD`
+* Health expenditure: `https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS`
+* Population: `https://data.worldbank.org/indicator/SP.POP.TOTL`
+* Water & sanitation: `[[INSERT SOURCE LINK]](https://ourworldindata.org/clean-water-sanitation)`
+* Education: `https://ourworldindata.org/global-education`
+* Income group: `https://data.worldbank.org/indicator/NY.GNP.MKTP.CD`
+* World Bank regions: `https://ourworldindata.org/grapher/world-regions-according-to-the-world-bank?overlay=download-data`[New_Dashboard.pdf](https://github.com/user-attachments/files/31809572/New_Dashboard.pdf)
+
 
 ---
 
@@ -458,15 +457,18 @@ It contains:
 
 ### Final Dashboard
 
-![Final Dashboard](images/dashboard-final.png)
+<img width="2075" height="1200" alt="New_Dashboard_page-0001" src="https://github.com/user-attachments/assets/574168d2-9532-4cf0-a7bd-35dcc789661c" />
+
 
 ### Dataset Coverage
 
 > **212 countries analysed**
 
 ### Power BI Report
+<img width="2075" height="1200" alt="Dashboard_01_page-0003" src="https://github.com/user-attachments/assets/87832b37-c01f-44f4-9b25-b6f882021137" />
 
-`[View / Download Power BI Report — INSERT LINK]`
+<img width="2075" height="1200" alt="New_Dashboard_page-0002" src="https://github.com/user-attachments/assets/84ac35df-c3eb-4832-b54f-6caf491bd354" />
+
 
 ---
 
@@ -479,8 +481,7 @@ The revised dashboard shows a downward global trend in average child mortality d
 The displayed average child mortality value in the final dashboard is:
 
 > **3.59**
-
-> **[INSERT FINAL INTERPRETATION OF THE TREND HERE]**
+<img width="2075" height="1200" alt="New_Dashboard_page-0002" src="https://github.com/user-attachments/assets/7e8ea3c1-4fad-461c-9882-02cd2d6ad059" />
 
 ---
 
@@ -490,7 +491,8 @@ The decline in child mortality is not uniform across countries.
 
 The country comparison highlights substantial differences, with countries including **Nigeria, Niger, Somalia, and Chad** appearing among the higher-mortality countries in the displayed ranking.
 
-> **[INSERT FINAL COUNTRY/REGIONAL INSIGHT AFTER FINAL REVIEW]**
+<img width="2075" height="1200" alt="New_Dashboard_page-0002" src="https://github.com/user-attachments/assets/dd7879d2-a8ee-4cad-8d77-b02bd30d4fb2" />
+
 
 ---
 
@@ -516,7 +518,8 @@ The initial analysis produced a Pearson correlation of:
 
 However, this value belongs to **Version 1** and should not automatically be reported as the final result of the revised 2000–2024 model.
 
-> **[INSERT FINAL GDP–CMR CORRELATION FROM VERSION 2]**
+<img width="2075" height="1200" alt="Dashboard_01_page-0002" src="https://github.com/user-attachments/assets/d10d29f9-5ee4-410c-b2d3-bc5e9b26b2f7" />
+
 
 ---
 
@@ -530,7 +533,6 @@ The initial analysis reported:
 
 This result was generated under the original analytical setup and should therefore be distinguished from the final Version 2 analysis.
 
-> **[INSERT FINAL HEALTH EXPENDITURE–CMR CORRELATION FROM VERSION 2]**
 
 ---
 
